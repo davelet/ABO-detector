@@ -1,5 +1,7 @@
 # ABO-detector
-A for Apple, B for Banana, O for Orange. 在mac上用tensorFlow的model训练苹果、香蕉、橘子识别器
+A for Apple, B for Banana, O for Orange. 在mac上用tensorFlow的model训练苹果、香蕉、橘子识别器。
+
+训练环境和方法请看[TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-On-Macos](https://github.com/davelet/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-On-Macos)。
 
 ## fruit-imanges目录
 abo的图片和标记数据。

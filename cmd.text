@@ -1,0 +1,10 @@
+RUN:
+python model_main.py \
+    --pipeline_config_path=/Users/sheldon/pythonProjects/py3venv/kaggle/faster_rcnn_inception_v2_pets.config \
+    --model_dir=/Users/sheldon/pythonProjects/py3venv/kaggle/fruit-images \
+    --alsologtostderr
+
+
+EXPORT:
+
+python export_inference_graph.py --input_type image_tensor --pipeline_config_path /Users/sheldon/pythonProjects/py3venv/kaggle/faster_rcnn_inception_v2_pets.config --trained_checkpoint_prefix /Users/sheldon/pythonProjects/py3venv/kaggle/fruit-images/model.ckpt-2132 --output_directory /Users/sheldon/pythonProjects/py3venv/kaggle/fruit-images/graph

@@ -5,7 +5,6 @@ __pycache__/
 
 model.ckpt*
 events.out.tfevents.*
-fruit-images/cmd.text
 fruit-images/graph/
 fruit-images/checkpoint
 fruit-images/graph.pbtxt

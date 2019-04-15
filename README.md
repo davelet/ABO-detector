@@ -32,3 +32,9 @@ train目录是训练图片和标记，test是测试集。
 ## 官方资料
 
 [TensorFlow lite Object detection](https://www.tensorflow.org/lite/models/object_detection/overview)
+
+[对象识别](https://www.tensorflow.org/lite/models/object_detection/overview#customize_model)
+
+[图片分类](https://www.tensorflow.org/lite/models/image_classification/overview)
+
+[模型转到移动端](https://www.tensorflow.org/lite/convert/python_api)

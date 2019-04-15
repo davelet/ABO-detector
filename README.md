@@ -28,3 +28,7 @@ train目录是训练图片和标记，test是测试集。
 ## 测试
 在object_detection目录下执行
 > python /Users/sheldon/pythonProjects/ABO-detector/Object_detection_webcam.py
+
+## 官方资料
+
+[TensorFlow lite Object detection](https://www.tensorflow.org/lite/models/object_detection/overview)

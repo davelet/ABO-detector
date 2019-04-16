@@ -42,3 +42,11 @@ train目录是训练图片和标记，test是测试集。
 https://github.com/nnsuite/nnstreamer/wiki/%5BTF-Lite%5D-How-to-Convert-Tensorflow-Model-to-TF-Lite-Model
 
 https://www.quantumobile.com/mobile-object-detector-with-tensorflow-lite/
+
+[ensorFlow Lite 概述和模型转化简介](https://zhuanlan.zhihu.com/p/37941205)
+
+[TensorFlow Lite(1/3)：编译](https://zhuanlan.zhihu.com/p/32190069)
+
+[TensorFlow Lite的量化工具](https://zhuanlan.zhihu.com/p/45213001)
+
+

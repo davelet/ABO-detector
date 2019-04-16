@@ -38,3 +38,7 @@ train目录是训练图片和标记，test是测试集。
 [图片分类](https://www.tensorflow.org/lite/models/image_classification/overview)
 
 [模型转到移动端](https://www.tensorflow.org/lite/convert/python_api)
+
+https://github.com/nnsuite/nnstreamer/wiki/%5BTF-Lite%5D-How-to-Convert-Tensorflow-Model-to-TF-Lite-Model
+
+https://www.quantumobile.com/mobile-object-detector-with-tensorflow-lite/

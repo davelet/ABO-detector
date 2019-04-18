@@ -32,7 +32,9 @@ train目录是训练图片和标记，test是测试集。
 ## 转换
 在tensorflow目录下执行`bazel build tensorflow/tools/graph_transforms:summarize_graph`
 
-## 官方资料
+## 资料
+
+[电子书教程] (/objectdetection_in_tensorflowdemo.pdf)
 
 [TensorFlow lite Object detection](https://www.tensorflow.org/lite/models/object_detection/overview)
 

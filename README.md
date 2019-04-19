@@ -29,6 +29,29 @@ train目录是训练图片和标记，test是测试集。
 在object_detection目录下执行
 > python /Users/sheldon/pythonProjects/ABO-detector/Object_detection_webcam.py
 
-## 官方资料
+## 转换
+在tensorflow目录下执行`bazel build tensorflow/tools/graph_transforms:summarize_graph`
+
+## 资料
+
+[电子书教程] (https://github.com/davelet/ABO-detector/edit/master/objectdetection_in_tensorflowdemo.pdf)
 
 [TensorFlow lite Object detection](https://www.tensorflow.org/lite/models/object_detection/overview)
+
+[对象识别](https://www.tensorflow.org/lite/models/object_detection/overview#customize_model)
+
+[图片分类](https://www.tensorflow.org/lite/models/image_classification/overview)
+
+[模型转到移动端](https://www.tensorflow.org/lite/convert/python_api)
+
+https://github.com/nnsuite/nnstreamer/wiki/%5BTF-Lite%5D-How-to-Convert-Tensorflow-Model-to-TF-Lite-Model
+
+https://www.quantumobile.com/mobile-object-detector-with-tensorflow-lite/
+
+[ensorFlow Lite 概述和模型转化简介](https://zhuanlan.zhihu.com/p/37941205)
+
+[TensorFlow Lite(1/3)：编译](https://zhuanlan.zhihu.com/p/32190069)
+
+[TensorFlow Lite的量化工具](https://zhuanlan.zhihu.com/p/45213001)
+
+

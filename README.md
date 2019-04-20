@@ -34,7 +34,7 @@ train目录是训练图片和标记，test是测试集。
 
 ## 资料
 
-[电子书教程] (https://github.com/davelet/ABO-detector/edit/master/objectdetection_in_tensorflowdemo.pdf)
+[电子书教程](https://github.com/davelet/ABO-detector/edit/master/objectdetection_in_tensorflowdemo.pdf)
 
 [TensorFlow lite Object detection](https://www.tensorflow.org/lite/models/object_detection/overview)
 
@@ -54,4 +54,5 @@ https://www.quantumobile.com/mobile-object-detector-with-tensorflow-lite/
 
 [TensorFlow Lite的量化工具](https://zhuanlan.zhihu.com/p/45213001)
 
+[Android端的Tensorflow部署](https://github.com/dingjikerbo/Android-DeepLearning/blob/master/doc/Android%E7%AB%AF%E7%9A%84Tensorflow%E9%83%A8%E7%BD%B2%E4%B8%80.md)
 

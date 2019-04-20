@@ -3,8 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-model.ckpt*
 events.out.tfevents.*
 fruit-images/graph/
 fruit-images/checkpoint
 fruit-images/graph.pbtxt
+fruit-images/model.ckpt*

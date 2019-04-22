@@ -57,3 +57,5 @@ https://www.quantumobile.com/mobile-object-detector-with-tensorflow-lite/
 [Android端的Tensorflow部署](https://github.com/dingjikerbo/Android-DeepLearning/blob/master/doc/Android%E7%AB%AF%E7%9A%84Tensorflow%E9%83%A8%E7%BD%B2%E4%B8%80.md)
 
 [pre-train using slim](https://github.com/priya-dwivedi/Deep-Learning/tree/master/soccer_area_of_action/slim)
+
+[mac迁移学习](https://medium.com/coinmonks/part-1-2-step-by-step-guide-to-data-preparation-for-transfer-learning-using-tensorflows-object-ac45a6035b7a)

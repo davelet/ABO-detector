@@ -63,3 +63,9 @@ https://www.quantumobile.com/mobile-object-detector-with-tensorflow-lite/
 [移动端可用模型](https://www.tensorflow.org/lite/guide/hosted_models)
 
 [image retrain](https://www.tensorflow.org/hub/tutorials/image_retraining)
+
+## 输入输出张量记录
+
+inception: 输入Placeholder，输出final_result
+
+mobilenet: 输入input_image，输出MobilenetV1/Predictions/Softmax

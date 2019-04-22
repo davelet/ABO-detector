@@ -59,3 +59,5 @@ https://www.quantumobile.com/mobile-object-detector-with-tensorflow-lite/
 [pre-train using slim](https://github.com/priya-dwivedi/Deep-Learning/tree/master/soccer_area_of_action/slim)
 
 [mac迁移学习](https://medium.com/coinmonks/part-1-2-step-by-step-guide-to-data-preparation-for-transfer-learning-using-tensorflows-object-ac45a6035b7a)
+
+[image retrain](https://www.tensorflow.org/hub/tutorials/image_retraining)
